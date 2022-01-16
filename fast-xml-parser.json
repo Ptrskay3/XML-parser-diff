@@ -1,0 +1,58 @@
+[
+  { "?xml": [{ "#text": "" }], ":@": { "@_version": 1, "@_encoding": "utf-8" } },
+  {
+    "page": [
+      {
+        "painter": [
+          {
+            "formatted_text": [
+              { "no_fill": [], ":@": { "@_opacity": 0.8 } },
+              { "text_padding_font_size_relative": [], ":@": { "@_ratio": 0.1 } },
+              {
+                "text_body": [
+                  {
+                    "text_paragraph": [
+                      {
+                        "text_run": [
+                          {
+                            "run_props": [{ "text_color": [{ "argb_color": [], ":@": { "@_color": "#000000" } }] }],
+                            ":@": {
+                              "@_font_name": "Arial",
+                              "@_font_size": 78,
+                              "@_italic": false,
+                              "@_keyboard_lang": "ar"
+                            }
+                          },
+                          { "text": [{ "#text": "Körte" }] }
+                        ]
+                      }
+                    ],
+                    ":@": { "@_halign": "center" }
+                  }
+                ]
+              }
+            ],
+            ":@": {
+              "@_id": "DBJHVYNWOBAG",
+              "@_created_time": "2021-11-27 18:03:47",
+              "@_modified_time": "2021-11-27 18:03:48",
+              "@_x": 951.735,
+              "@_y": 269.945,
+              "@_width": 217.254,
+              "@_height": 105.292,
+              "@_transform": "matrix(1 0 0 1 293.169 -259.039)",
+              "@_valign": "center",
+              "@_line_snap": "on"
+            }
+          }
+        ],
+        ":@": { "@_xmlns": "http://www.mozabook.com/booklet/v2/painter" }
+      }
+    ],
+    ":@": {
+      "@_xmlns": "http://www.mozabook.com/booklet/v2/page",
+      "@_mozabook_version": "4.5.8.224",
+      "@_file_version": 2
+    }
+  }
+]

@@ -1,0 +1,92 @@
+{
+  "declaration": { "attributes": { "version": 1, "encoding": "utf-8" } },
+  "elements": [
+    {
+      "type": "element",
+      "name": "page",
+      "attributes": {
+        "xmlns": "http://www.mozabook.com/booklet/v2/page",
+        "mozabook_version": "4.5.8.224",
+        "file_version": 2
+      },
+      "elements": [
+        {
+          "type": "element",
+          "name": "painter",
+          "attributes": { "xmlns": "http://www.mozabook.com/booklet/v2/painter" },
+          "elements": [
+            {
+              "type": "element",
+              "name": "formatted_text",
+              "attributes": {
+                "id": "DBJHVYNWOBAG",
+                "created_time": "2021-11-27 18:03:47",
+                "modified_time": "2021-11-27 18:03:48",
+                "x": 951.735,
+                "y": 269.945,
+                "width": 217.254,
+                "height": 105.292,
+                "transform": "matrix(1 0 0 1 293.169 -259.039)",
+                "valign": "center",
+                "line_snap": "on"
+              },
+              "elements": [
+                { "type": "element", "name": "no_fill", "attributes": { "opacity": 0.8 }, "elements": [] },
+                {
+                  "type": "element",
+                  "name": "text_padding_font_size_relative",
+                  "attributes": { "ratio": 0.1 },
+                  "elements": []
+                },
+                {
+                  "type": "element",
+                  "name": "text_body",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "text_paragraph",
+                      "attributes": { "halign": "center" },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "text_run",
+                          "elements": [
+                            {
+                              "type": "element",
+                              "name": "run_props",
+                              "attributes": {
+                                "font_name": "Arial",
+                                "font_size": 78,
+                                "italic": false,
+                                "keyboard_lang": "ar"
+                              },
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "text_color",
+                                  "elements": [
+                                    {
+                                      "type": "element",
+                                      "name": "argb_color",
+                                      "attributes": { "color": "#000000" },
+                                      "elements": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            { "type": "element", "name": "text", "elements": [{ "type": "text", "text": "Körte" }] }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

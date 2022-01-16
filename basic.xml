@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://www.mozabook.com/booklet/v2/page" mozabook_version="4.5.8.202" file_version="2">
+    <painter xmlns="http://www.mozabook.com/booklet/v2/painter">
+        <group_object id="VKXHVVJDIPIW">
+            <path_object id="ROBHVVJDHSCQ" created_time="2021-11-16 08:57:37">
+                <polyline_path path_data="M 63.8821 388.759 L 178.87 144.41"/>
+                <pen_style thickness="3">
+                    <argb_color color="#000000"/>
+                </pen_style>
+                <solid_fill>
+                    <scheme_color scheme_index="bg1">
+                        <red value="2"/>
+                        <green value="25.185"/>
+                    </scheme_color>
+                </solid_fill>
+            </path_object>
+            <path_object id="PCHHVVJDHZQO" created_time="2021-11-16 08:58:57">
+                <rounded_rectangle x1="52.1" y1="205" x2="750.25" y2="347.4" rx="4"/>
+                <pen_style thickness="3">
+                    <argb_color color="#000000"/>
+                </pen_style>
+                <no_fill/>
+            </path_object>
+        </group_object>
+        <path_object id="ROBHVFDSADSCQ" created_time="2021-11-16 08:57:37">
+                <polyline_path path_data="M 63.8821 388.759 L 178.87 144.41"/>
+                <pen_style thickness="3">
+                    <argb_color color="#FFFFFF"/>
+                </pen_style>
+                <solid_fill>
+                    <scheme_color scheme_index="lt1">
+                        <lum value="5"/>
+                    </scheme_color>
+                </solid_fill>
+            </path_object>
+    </painter>
+    <extra_items xmlns="http://www.mozabook.com/booklet/v2/extra">
+        <video id="PAFHVUWSETQJ" painter_obj_id="PAEHVUWSETQJ" duration="121">
+            <title>
+                <![CDATA[Húsevő növények]]>
+            </title>
+            <created time="2021-11-14 15:56:11" mozalogin="PAPEDIAD" mw_user_id="672611"/>
+            <modified time="2021-11-14 15:58:00" mozalogin="PAPEDIAD" mw_user_id="672611"/>
+            <display_type value="pic"/>
+            <picture_file>
+                <![CDATA[video/image_IZNHVUWSCJUJ.jpg]]>
+            </picture_file>
+            <thumb_file>
+                <![CDATA[video/thumb_JJLHVUWSCJUH.jpg]]>
+            </thumb_file>
+            <original_picture_file>
+                <![CDATA[mozaikVideo/BIO/noveny/husevo_novenyek/husevo_novenyek_pre.jpg]]>
+            </original_picture_file>
+            <original_thumb_file>
+                <![CDATA[mozaikVideo/BIO/noveny/husevo_novenyek/husevo_novenyek_thumb.jpg]]>
+            </original_thumb_file>
+            <origin>
+                <![CDATA[mozaweb_husevo_novenyek]]>
+            </origin>
+            <lexikon_id value="147773"/>
+            <mozaweb_origin id="husevo_novenyek" revision="0"/>
+            <position x="108.067" y="573.801"/>
+            <theme value="BIO"/>
+            <upload parent_id_list="RUIHVUWRYNTZ"/>
+            <tags>
+                <![CDATA[húsevő növények,kancsóka,Vénusz légycsapója,rovarfogó,rovaremésztő,enzim,emésztőnedv,növény,biológia]]>
+            </tags>
+            <argument_url>
+                <![CDATA[mozaikVideo/BIO/noveny/husevo_novenyek/husevo_novenyek.mp4]]>
+            </argument_url>
+        </video>
+    </extra_items>
+</page>

@@ -1,0 +1,1615 @@
+{
+  "page": {
+    "$": { "xmlns": "http://www.mozabook.com/booklet/v2/page", "mozabook_version": "4.5.8.224", "file_version": "2" },
+    "#name": "page",
+    "$$": [
+      {
+        "$": { "xmlns": "http://www.mozabook.com/booklet/v2/painter" },
+        "#name": "painter",
+        "$$": [
+          {
+            "$": {
+              "id": "DBJHVYNWOBAG",
+              "created_time": "2021-11-27 18:03:47",
+              "modified_time": "2021-11-27 18:03:48",
+              "x": "951.735",
+              "y": "269.945",
+              "width": "217.254",
+              "height": "105.292",
+              "transform": "matrix(1 0 0 1 293.169 -259.039)",
+              "valign": "center",
+              "line_snap": "on"
+            },
+            "#name": "formatted_text",
+            "$$": [
+              { "$": { "opacity": "0.8" }, "#name": "no_fill" },
+              { "$": { "ratio": "0.1" }, "#name": "text_padding_font_size_relative" },
+              {
+                "#name": "text_body",
+                "$$": [
+                  {
+                    "$": { "halign": "center" },
+                    "#name": "text_paragraph",
+                    "$$": [
+                      {
+                        "#name": "text_run",
+                        "$$": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "#name": "run_props",
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          },
+                          { "_": "\n                            Körte\n                        ", "#name": "text" }
+                        ],
+                        "run_props": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          }
+                        ],
+                        "text": ["\n                            Körte\n                        "]
+                      }
+                    ],
+                    "text_run": [
+                      {
+                        "$$": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "#name": "run_props",
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          },
+                          { "_": "\n                            Körte\n                        ", "#name": "text" }
+                        ],
+                        "run_props": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          }
+                        ],
+                        "text": ["\n                            Körte\n                        "]
+                      }
+                    ]
+                  }
+                ],
+                "text_paragraph": [
+                  {
+                    "$": { "halign": "center" },
+                    "$$": [
+                      {
+                        "#name": "text_run",
+                        "$$": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "#name": "run_props",
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          },
+                          { "_": "\n                            Körte\n                        ", "#name": "text" }
+                        ],
+                        "run_props": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          }
+                        ],
+                        "text": ["\n                            Körte\n                        "]
+                      }
+                    ],
+                    "text_run": [
+                      {
+                        "$$": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "#name": "run_props",
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          },
+                          { "_": "\n                            Körte\n                        ", "#name": "text" }
+                        ],
+                        "run_props": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          }
+                        ],
+                        "text": ["\n                            Körte\n                        "]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "no_fill": [{ "$": { "opacity": "0.8" } }],
+            "text_padding_font_size_relative": [{ "$": { "ratio": "0.1" } }],
+            "text_body": [
+              {
+                "$$": [
+                  {
+                    "$": { "halign": "center" },
+                    "#name": "text_paragraph",
+                    "$$": [
+                      {
+                        "#name": "text_run",
+                        "$$": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "#name": "run_props",
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          },
+                          { "_": "\n                            Körte\n                        ", "#name": "text" }
+                        ],
+                        "run_props": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          }
+                        ],
+                        "text": ["\n                            Körte\n                        "]
+                      }
+                    ],
+                    "text_run": [
+                      {
+                        "$$": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "#name": "run_props",
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          },
+                          { "_": "\n                            Körte\n                        ", "#name": "text" }
+                        ],
+                        "run_props": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          }
+                        ],
+                        "text": ["\n                            Körte\n                        "]
+                      }
+                    ]
+                  }
+                ],
+                "text_paragraph": [
+                  {
+                    "$": { "halign": "center" },
+                    "$$": [
+                      {
+                        "#name": "text_run",
+                        "$$": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "#name": "run_props",
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          },
+                          { "_": "\n                            Körte\n                        ", "#name": "text" }
+                        ],
+                        "run_props": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          }
+                        ],
+                        "text": ["\n                            Körte\n                        "]
+                      }
+                    ],
+                    "text_run": [
+                      {
+                        "$$": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "#name": "run_props",
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          },
+                          { "_": "\n                            Körte\n                        ", "#name": "text" }
+                        ],
+                        "run_props": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          }
+                        ],
+                        "text": ["\n                            Körte\n                        "]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "formatted_text": [
+          {
+            "$": {
+              "id": "DBJHVYNWOBAG",
+              "created_time": "2021-11-27 18:03:47",
+              "modified_time": "2021-11-27 18:03:48",
+              "x": "951.735",
+              "y": "269.945",
+              "width": "217.254",
+              "height": "105.292",
+              "transform": "matrix(1 0 0 1 293.169 -259.039)",
+              "valign": "center",
+              "line_snap": "on"
+            },
+            "$$": [
+              { "$": { "opacity": "0.8" }, "#name": "no_fill" },
+              { "$": { "ratio": "0.1" }, "#name": "text_padding_font_size_relative" },
+              {
+                "#name": "text_body",
+                "$$": [
+                  {
+                    "$": { "halign": "center" },
+                    "#name": "text_paragraph",
+                    "$$": [
+                      {
+                        "#name": "text_run",
+                        "$$": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "#name": "run_props",
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          },
+                          { "_": "\n                            Körte\n                        ", "#name": "text" }
+                        ],
+                        "run_props": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          }
+                        ],
+                        "text": ["\n                            Körte\n                        "]
+                      }
+                    ],
+                    "text_run": [
+                      {
+                        "$$": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "#name": "run_props",
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          },
+                          { "_": "\n                            Körte\n                        ", "#name": "text" }
+                        ],
+                        "run_props": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          }
+                        ],
+                        "text": ["\n                            Körte\n                        "]
+                      }
+                    ]
+                  }
+                ],
+                "text_paragraph": [
+                  {
+                    "$": { "halign": "center" },
+                    "$$": [
+                      {
+                        "#name": "text_run",
+                        "$$": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "#name": "run_props",
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          },
+                          { "_": "\n                            Körte\n                        ", "#name": "text" }
+                        ],
+                        "run_props": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          }
+                        ],
+                        "text": ["\n                            Körte\n                        "]
+                      }
+                    ],
+                    "text_run": [
+                      {
+                        "$$": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "#name": "run_props",
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          },
+                          { "_": "\n                            Körte\n                        ", "#name": "text" }
+                        ],
+                        "run_props": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          }
+                        ],
+                        "text": ["\n                            Körte\n                        "]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "no_fill": [{ "$": { "opacity": "0.8" } }],
+            "text_padding_font_size_relative": [{ "$": { "ratio": "0.1" } }],
+            "text_body": [
+              {
+                "$$": [
+                  {
+                    "$": { "halign": "center" },
+                    "#name": "text_paragraph",
+                    "$$": [
+                      {
+                        "#name": "text_run",
+                        "$$": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "#name": "run_props",
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          },
+                          { "_": "\n                            Körte\n                        ", "#name": "text" }
+                        ],
+                        "run_props": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          }
+                        ],
+                        "text": ["\n                            Körte\n                        "]
+                      }
+                    ],
+                    "text_run": [
+                      {
+                        "$$": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "#name": "run_props",
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          },
+                          { "_": "\n                            Körte\n                        ", "#name": "text" }
+                        ],
+                        "run_props": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          }
+                        ],
+                        "text": ["\n                            Körte\n                        "]
+                      }
+                    ]
+                  }
+                ],
+                "text_paragraph": [
+                  {
+                    "$": { "halign": "center" },
+                    "$$": [
+                      {
+                        "#name": "text_run",
+                        "$$": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "#name": "run_props",
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          },
+                          { "_": "\n                            Körte\n                        ", "#name": "text" }
+                        ],
+                        "run_props": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          }
+                        ],
+                        "text": ["\n                            Körte\n                        "]
+                      }
+                    ],
+                    "text_run": [
+                      {
+                        "$$": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "#name": "run_props",
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          },
+                          { "_": "\n                            Körte\n                        ", "#name": "text" }
+                        ],
+                        "run_props": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          }
+                        ],
+                        "text": ["\n                            Körte\n                        "]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "painter": [
+      {
+        "$": { "xmlns": "http://www.mozabook.com/booklet/v2/painter" },
+        "$$": [
+          {
+            "$": {
+              "id": "DBJHVYNWOBAG",
+              "created_time": "2021-11-27 18:03:47",
+              "modified_time": "2021-11-27 18:03:48",
+              "x": "951.735",
+              "y": "269.945",
+              "width": "217.254",
+              "height": "105.292",
+              "transform": "matrix(1 0 0 1 293.169 -259.039)",
+              "valign": "center",
+              "line_snap": "on"
+            },
+            "#name": "formatted_text",
+            "$$": [
+              { "$": { "opacity": "0.8" }, "#name": "no_fill" },
+              { "$": { "ratio": "0.1" }, "#name": "text_padding_font_size_relative" },
+              {
+                "#name": "text_body",
+                "$$": [
+                  {
+                    "$": { "halign": "center" },
+                    "#name": "text_paragraph",
+                    "$$": [
+                      {
+                        "#name": "text_run",
+                        "$$": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "#name": "run_props",
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          },
+                          { "_": "\n                            Körte\n                        ", "#name": "text" }
+                        ],
+                        "run_props": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          }
+                        ],
+                        "text": ["\n                            Körte\n                        "]
+                      }
+                    ],
+                    "text_run": [
+                      {
+                        "$$": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "#name": "run_props",
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          },
+                          { "_": "\n                            Körte\n                        ", "#name": "text" }
+                        ],
+                        "run_props": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          }
+                        ],
+                        "text": ["\n                            Körte\n                        "]
+                      }
+                    ]
+                  }
+                ],
+                "text_paragraph": [
+                  {
+                    "$": { "halign": "center" },
+                    "$$": [
+                      {
+                        "#name": "text_run",
+                        "$$": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "#name": "run_props",
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          },
+                          { "_": "\n                            Körte\n                        ", "#name": "text" }
+                        ],
+                        "run_props": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          }
+                        ],
+                        "text": ["\n                            Körte\n                        "]
+                      }
+                    ],
+                    "text_run": [
+                      {
+                        "$$": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "#name": "run_props",
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          },
+                          { "_": "\n                            Körte\n                        ", "#name": "text" }
+                        ],
+                        "run_props": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          }
+                        ],
+                        "text": ["\n                            Körte\n                        "]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "no_fill": [{ "$": { "opacity": "0.8" } }],
+            "text_padding_font_size_relative": [{ "$": { "ratio": "0.1" } }],
+            "text_body": [
+              {
+                "$$": [
+                  {
+                    "$": { "halign": "center" },
+                    "#name": "text_paragraph",
+                    "$$": [
+                      {
+                        "#name": "text_run",
+                        "$$": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "#name": "run_props",
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          },
+                          { "_": "\n                            Körte\n                        ", "#name": "text" }
+                        ],
+                        "run_props": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          }
+                        ],
+                        "text": ["\n                            Körte\n                        "]
+                      }
+                    ],
+                    "text_run": [
+                      {
+                        "$$": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "#name": "run_props",
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          },
+                          { "_": "\n                            Körte\n                        ", "#name": "text" }
+                        ],
+                        "run_props": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          }
+                        ],
+                        "text": ["\n                            Körte\n                        "]
+                      }
+                    ]
+                  }
+                ],
+                "text_paragraph": [
+                  {
+                    "$": { "halign": "center" },
+                    "$$": [
+                      {
+                        "#name": "text_run",
+                        "$$": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "#name": "run_props",
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          },
+                          { "_": "\n                            Körte\n                        ", "#name": "text" }
+                        ],
+                        "run_props": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          }
+                        ],
+                        "text": ["\n                            Körte\n                        "]
+                      }
+                    ],
+                    "text_run": [
+                      {
+                        "$$": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "#name": "run_props",
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          },
+                          { "_": "\n                            Körte\n                        ", "#name": "text" }
+                        ],
+                        "run_props": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          }
+                        ],
+                        "text": ["\n                            Körte\n                        "]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "formatted_text": [
+          {
+            "$": {
+              "id": "DBJHVYNWOBAG",
+              "created_time": "2021-11-27 18:03:47",
+              "modified_time": "2021-11-27 18:03:48",
+              "x": "951.735",
+              "y": "269.945",
+              "width": "217.254",
+              "height": "105.292",
+              "transform": "matrix(1 0 0 1 293.169 -259.039)",
+              "valign": "center",
+              "line_snap": "on"
+            },
+            "$$": [
+              { "$": { "opacity": "0.8" }, "#name": "no_fill" },
+              { "$": { "ratio": "0.1" }, "#name": "text_padding_font_size_relative" },
+              {
+                "#name": "text_body",
+                "$$": [
+                  {
+                    "$": { "halign": "center" },
+                    "#name": "text_paragraph",
+                    "$$": [
+                      {
+                        "#name": "text_run",
+                        "$$": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "#name": "run_props",
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          },
+                          { "_": "\n                            Körte\n                        ", "#name": "text" }
+                        ],
+                        "run_props": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          }
+                        ],
+                        "text": ["\n                            Körte\n                        "]
+                      }
+                    ],
+                    "text_run": [
+                      {
+                        "$$": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "#name": "run_props",
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          },
+                          { "_": "\n                            Körte\n                        ", "#name": "text" }
+                        ],
+                        "run_props": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          }
+                        ],
+                        "text": ["\n                            Körte\n                        "]
+                      }
+                    ]
+                  }
+                ],
+                "text_paragraph": [
+                  {
+                    "$": { "halign": "center" },
+                    "$$": [
+                      {
+                        "#name": "text_run",
+                        "$$": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "#name": "run_props",
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          },
+                          { "_": "\n                            Körte\n                        ", "#name": "text" }
+                        ],
+                        "run_props": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          }
+                        ],
+                        "text": ["\n                            Körte\n                        "]
+                      }
+                    ],
+                    "text_run": [
+                      {
+                        "$$": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "#name": "run_props",
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          },
+                          { "_": "\n                            Körte\n                        ", "#name": "text" }
+                        ],
+                        "run_props": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          }
+                        ],
+                        "text": ["\n                            Körte\n                        "]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "no_fill": [{ "$": { "opacity": "0.8" } }],
+            "text_padding_font_size_relative": [{ "$": { "ratio": "0.1" } }],
+            "text_body": [
+              {
+                "$$": [
+                  {
+                    "$": { "halign": "center" },
+                    "#name": "text_paragraph",
+                    "$$": [
+                      {
+                        "#name": "text_run",
+                        "$$": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "#name": "run_props",
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          },
+                          { "_": "\n                            Körte\n                        ", "#name": "text" }
+                        ],
+                        "run_props": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          }
+                        ],
+                        "text": ["\n                            Körte\n                        "]
+                      }
+                    ],
+                    "text_run": [
+                      {
+                        "$$": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "#name": "run_props",
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          },
+                          { "_": "\n                            Körte\n                        ", "#name": "text" }
+                        ],
+                        "run_props": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          }
+                        ],
+                        "text": ["\n                            Körte\n                        "]
+                      }
+                    ]
+                  }
+                ],
+                "text_paragraph": [
+                  {
+                    "$": { "halign": "center" },
+                    "$$": [
+                      {
+                        "#name": "text_run",
+                        "$$": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "#name": "run_props",
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          },
+                          { "_": "\n                            Körte\n                        ", "#name": "text" }
+                        ],
+                        "run_props": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          }
+                        ],
+                        "text": ["\n                            Körte\n                        "]
+                      }
+                    ],
+                    "text_run": [
+                      {
+                        "$$": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "#name": "run_props",
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          },
+                          { "_": "\n                            Körte\n                        ", "#name": "text" }
+                        ],
+                        "run_props": [
+                          {
+                            "$": { "font_name": "Arial", "font_size": "78", "italic": "false", "keyboard_lang": "ar" },
+                            "$$": [
+                              {
+                                "#name": "text_color",
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ],
+                            "text_color": [
+                              {
+                                "$$": [{ "$": { "color": "#000000" }, "#name": "argb_color" }],
+                                "argb_color": [{ "$": { "color": "#000000" } }]
+                              }
+                            ]
+                          }
+                        ],
+                        "text": ["\n                            Körte\n                        "]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

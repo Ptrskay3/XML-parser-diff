@@ -1,0 +1,42 @@
+{
+  "mozabook_version": "4.5.8.224",
+  "file_version": 2,
+  "painter": {
+    "elements": [
+      {
+        "id": "DBJHVYNWOBAG",
+        "created_time": "2021-11-27 18:03:47",
+        "modified_time": "2021-11-27 18:03:48",
+        "x": 951.735,
+        "y": 269.945,
+        "width": 217.254,
+        "height": 105.292,
+        "transform": "matrix(1 0 0 1 293.169 -259.039)",
+        "valign": "center",
+        "line_snap": "on",
+        "no_fill": { "opacity": 0.8 },
+        "solid_fill": false,
+        "text_padding_font_size_relative": { "ratio": 0.1 },
+        "text_body": {
+          "paragraphs": [
+            {
+              "halign": "center",
+              "elements": [
+                {
+                  "font_name": "Arial",
+                  "font_size": 78,
+                  "italic": false,
+                  "keyboard_lang": "ar",
+                  "text_color": { "argb_color": { "color": "#000000" } },
+                  "text": "لاأخونُ",
+                  "__type": "text_run"
+                }
+              ]
+            }
+          ]
+        },
+        "__type": "formatted_text"
+      }
+    ]
+  }
+}
