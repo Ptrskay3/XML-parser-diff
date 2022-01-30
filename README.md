@@ -7,7 +7,7 @@
 | Fast-XML-Parser | 79.13               | 3.28                  | 352.12               | 14.04                  |
 | XML-JS          | 88.76               | 3.17                  | 351.66               | 14.23                  |
 | XML2JS          | 85.80               | 3.74                  | 392.39               | 34.16                  |
-| Rust            | 51.68               | 2.66                  | 116.69               | 10.09                  |
+| Rust (Node)     | 51.68               | 2.66                  | 116.69               | 10.09                  |
 
 Note that `XML-JS` and `XML2JS` do _not_ parse numbers.
 Using our Rust based parser is both better in terms of performance, and the scheme is much more flexible.
